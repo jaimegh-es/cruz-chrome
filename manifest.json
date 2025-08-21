@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Cruz Cristiana para Chrome",
+    "version": "1.0",
+    "description": "Que el señor esté contigo",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/cruz.png",
+        "32": "icons/cruz.png",
+        "48": "icons/cruz.png",
+        "128": "icons/cruz.png"
+      }
+    },
+    "icons": {
+      "16": "icons/cruz.png",
+      "32": "icons/cruz.png",
+      "48": "icons/cruz.png",
+      "128": "icons/cruz.png"
+    }
+  }
